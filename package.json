@@ -1,0 +1,15 @@
+{
+  "name": "patchinko-typing",
+  "version": "1.0.0",
+  "description": "TypeScript typing for Patchinko library",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --noEmit"
+  },
+  "author": "Fivitti",
+  "license": "MIT",
+  "dependencies": {
+    "patchinko": "^4.2.0",
+    "typescript": "^3.5.3"
+  }
+}
